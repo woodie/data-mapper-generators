@@ -1,0 +1,3 @@
+== Description
+
+This generator allows you to generate data mapper models by using the --orm option when running the standard model generator (ie. script/generate model...)
